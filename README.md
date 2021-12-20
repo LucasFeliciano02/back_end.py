@@ -1,2 +1,2 @@
 # django_curso
-Curso de django da udemy.
+  Projetos feitos com conhecimento adiquirido com curso back-end.
