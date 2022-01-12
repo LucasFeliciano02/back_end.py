@@ -1,2 +1,2 @@
 # Arquivos_Back-end
--  Aqui há arquivos apenas back-end que guardarei para fazer projetos full stack em outros repositórios
+-  Aqui há apenas arquivos back-end para fazer projetos full stack em outros repositórios
