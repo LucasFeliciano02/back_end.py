@@ -1,2 +1,2 @@
 # Arquivos_Back-end
--  Aqui há apenas arquivos back-end para fazer projetos full stack em outros repositórios
+-  Arquivos.py feitos com ideias próprias para serem utilizados em futuras aplicações full stack web
