@@ -3,10 +3,9 @@ while True:
     codigo2 = input('Escreva o codigo2: ')
 
     if codigo1 == codigo2:
-        print('certo')
+        print('Iguais')
     else:
-        print('errado')
-
+        print('Diferente')
     if input('Digite S para sair ou qualquer outra letra para continuar: ') == 's':
         print('Saindo...')
         break
