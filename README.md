@@ -1,5 +1,5 @@
 # back-end
 
 ```sh
-• Projetos feitos com conhecimento adiquirido com cursos back-end.
+• Projetos feitos com conhecimento adiquirido em cursos back-end.
 ```
