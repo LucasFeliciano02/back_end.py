@@ -1,2 +1,5 @@
-# django_curso
-  Projetos feitos com conhecimento adiquirido com cursos back-end.
+# back-end
+
+```sh
+• Projetos feitos com conhecimento adiquirido com cursos back-end.
+```
